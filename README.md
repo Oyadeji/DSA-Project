@@ -78,12 +78,3 @@ Abuja Legal
 
 Lagos Support
 
-Let me know if you'd like:
-
-Insights focused on bonuses or promotions
-
-A PowerPoint summary
-
-Or comparisons by department or role level
-
-I can help you build it!
