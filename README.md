@@ -3,7 +3,7 @@ DSA Capstone Project Palmora Group Power BI Analysis
 Key Workforce Metrics
 ## Total Employees: 946
 
-##Gender Distribution:
+## Gender Distribution:
 
 Male: 465 (49.15%)
 
